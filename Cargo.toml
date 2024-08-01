@@ -1,1 +1,1 @@
-workspace = { members = ["db_data_tranfer"] }
+workspace = { members = ["db_data_transfer", "sql_runner", "log_util"] }
